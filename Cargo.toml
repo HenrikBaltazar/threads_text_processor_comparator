@@ -1,0 +1,6 @@
+[package]
+name = "threads_text_processor_comparator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
